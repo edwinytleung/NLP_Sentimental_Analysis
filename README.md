@@ -1,3 +1,3 @@
 # NLP Sentimental Analysis
 
-NLP using Games of Thrones, Reuters and IMDB
+NLP using Pride and Prejudice, Reuters and IMDB
